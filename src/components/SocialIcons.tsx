@@ -76,7 +76,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="mailto:Panditasidharth@gmail.com?subject=Resume"
+        href={`${import.meta.env.BASE_URL}Sidharth_Pandita_Resume.pdf`}
         target="_blank"
         rel="noreferrer"
       >
