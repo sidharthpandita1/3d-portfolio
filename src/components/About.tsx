@@ -6,10 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Software developer specializing in frontend and UI/UX, with strong
-          experience in React.js, modern JavaScript, and high-performance web
-          applications. I focus on responsive design, animations, usability,
-          and turning design systems into scalable production code.
+          
+Frontend-focused UI/UX Designer  — designing user flows, intuitive interfaces, and interactive Figma prototypes, with hands-on involvement in frontend architecture and close collaboration with dev and product teams.
         </p>
       </div>
     </div>

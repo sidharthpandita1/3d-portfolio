@@ -21,13 +21,9 @@ const Career = () => {
               <h3>NOW</h3>
             </div>
             <p>
-              Designing and developing responsive interfaces with React, HTML, CSS,
-              and JavaScript, with a strong focus on usability and performance.
-              Translating high-fidelity Figma designs into pixel-perfect components
-              while keeping design systems consistent. Building reusable UI,
-              improving dashboard workflows, and shipping animations and
-              micro-interactions with GSAP and CSS. Collaborating across teams and
-              optimizing layouts and rendering across devices and browsers.
+              
+Working as a Frontend-focused UX/UI Designer, responsible for designing intuitive, user-centered digital experiences from concept to execution. My role spans UX research, wireframing, user flow mapping, and high-fidelity UI design — through to interactive prototyping in Figma and contributing to frontend architecture decisions that make designs practical to build at scale. I collaborate closely with developers and product teams to keep design, technology, and business goals aligned.
+
             </p>
           </div>
           <div className="career-info-box">
